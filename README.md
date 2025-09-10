@@ -3,7 +3,7 @@
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/andrey.souzaz)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andreysouzaa)
 
-![Andrey GitHub stats](https://github-readme-stats.vercel.app/api?username=andrey-souza&show_icons=true&theme=dark)
+![Andrey GitHub stats](https://github-readme-stats.vercel.app/api?username=andrey-souzaa&show_icons=true&theme=dark)
 
 ### Conhecimentos em:
 
